@@ -55,7 +55,7 @@ header {
 }
 
 .omikujiPaper{
-    animation: fadeDown 1,5s forwards;
+    animation: fadeDown 1.5s forwards;
 }
 @keyframes fadeDown {
     0% {
